@@ -23,7 +23,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/03.Personal/GitHub/Java-Technologies-master/Java-Technologies-master/csvjdbc-1.0-30.jar"/>
-	<classpathentry kind="lib" path="D:/03.Personal/GitHub/Java-Technologies-master/Java-Technologies-master/opencsv-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/SSD/Training/01. Java/CodeGitHub/DataStructures/csvjdbc-1.0-30.jar"/>
+	<classpathentry kind="lib" path="C:/SSD/Training/01. Java/CodeGitHub/DataStructures/opencsv-3.8.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

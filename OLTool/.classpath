@@ -6,24 +6,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="D:/03.Personal/GitHub/Java-Technologies-master/Java-Technologies-master/csvjdbc-1.0-30.jar"/>
-	<classpathentry kind="lib" path="D:/03.Personal/GitHub/Java-Technologies-master/Java-Technologies-master/opencsv-3.8.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
@@ -34,5 +22,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/SSD/Training/01. Java/CodeGitHub/DataStructures/csvjdbc-1.0-30.jar"/>
+	<classpathentry kind="lib" path="C:/SSD/Training/01. Java/CodeGitHub/DataStructures/opencsv-3.8.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
